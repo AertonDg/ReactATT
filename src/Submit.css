@@ -1,0 +1,16 @@
+.btnS{
+    height: 50px;
+    width: 400px;
+    border-radius: 40px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-color: transparent;
+    background-color: hsl(25, 97%, 53%);
+    color:white;
+    transition: 0.5s;
+}
+.btnS:hover{
+    color: hsl(25, 97%, 53%);
+    background-color: white;
+}
